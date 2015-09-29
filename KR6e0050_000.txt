@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大方廣如來不思議境界經
+#+DATE: 2015-09-28 22:56:51.015983
+#+PROPERTY: JUAN 0
